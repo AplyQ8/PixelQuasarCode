@@ -16,12 +16,16 @@
 - Item pickup, drop, stack, equip, and use functionality
 - tooltips, and quickslot hotkeys
 
+Inventory scripts you can see [here](https://github.com/AplyQ8/PixelQuasarCode/tree/main/Scripts/In%20Game%20Menu%20Scripts/InventoryScripts)
+
 ![Inventory](GameMoments/InventoryDemo.gif)
 
 ### ✨ Ability System
 - Abilities are bindable to hotkeys
 - Cooldowns, charges, and unique effects per skill
 - Passive and active abilities integration
+
+Scripts for ability system you can see [here](https://github.com/AplyQ8/PixelQuasarCode/tree/main/Scripts/Main%20hero/ActiveAbilitySystem)
 
 ![Ability](GameMoments/fight.gif)
 
@@ -30,6 +34,8 @@
 - World drops, loot chests, and enemy drops
 - Proximity-based or interact-based looting
 
+A part of loot scripts you can see [here](https://github.com/AplyQ8/PixelQuasarCode/tree/main/Scripts/PickableObjects)
+
 ![Loot](GameMoments/Loot.gif)
 
 ### 📜 Quest System
@@ -37,12 +43,16 @@
 - Multi-stage quests with objectives and rewards
 - Journal UI and quest tracking
 
+Quest scripts you can see [here](https://github.com/AplyQ8/PixelQuasarCode/tree/main/Scripts/QuestScripts)
+
 ![Quest](GameMoments/Quest.gif)
 
 ### 🤖 Enemy AI
 - Finite State Machines (FSM) for behavior control
 - Patrol, chase, flee, and attack states
 - Enemies react to visibility
+
+Enemy scripts you can see [here](https://github.com/AplyQ8/PixelQuasarCode/tree/main/Scripts/Enemies)
 
 ![Gargoyle](GameMoments/GargoyleAI.gif)
 
