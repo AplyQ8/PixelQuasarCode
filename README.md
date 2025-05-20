@@ -84,5 +84,5 @@ This project is still under development. Upcoming features include:
 
 ## 🧑‍🎨 Author
 
-Created by [AplyQ8 https://github.com/AplyQ8]   
+Created by [**AplyQ8** https://github.com/AplyQ8]   
 Animations, code, and design are all original work.
