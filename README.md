@@ -16,25 +16,37 @@
 - Item pickup, drop, stack, equip, and use functionality
 - tooltips, and quickslot hotkeys
 
+![Inventory](GameMoments/InventoryDemo.gif)
+
 ### ✨ Ability System
 - Abilities are bindable to hotkeys
 - Cooldowns, charges, and unique effects per skill
 - Passive and active abilities integration
+
+![Ability](GameMoments/fight.gif)
 
 ### 💰 Looting System
 - Dynamic loot generation
 - World drops, loot chests, and enemy drops
 - Proximity-based or interact-based looting
 
+![Loot](GameMoments/Loot.gif)
+
 ### 📜 Quest System
 - Modular quest definitions via ScriptableObjects
 - Multi-stage quests with objectives and rewards
 - Journal UI and quest tracking
 
+![Quest](GameMoments/Quest.gif)
+
 ### 🤖 Enemy AI
 - Finite State Machines (FSM) for behavior control
 - Patrol, chase, flee, and attack states
 - Enemies react to visibility
+
+![Gargoyle](GameMoments/GargoyleAI.gif)
+
+![Phantom](GameMoments/PhantomAI.gif)
 
 ## 🎨 Art & Animation
 
