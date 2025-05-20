@@ -25,7 +25,7 @@ Inventory scripts you can see [here](https://github.com/AplyQ8/PixelQuasarCode/t
 - Cooldowns, charges, and unique effects per skill
 - Passive and active abilities integration
 
-Scripts for ability system you can see [here](https://github.com/AplyQ8/PixelQuasarCode/tree/main/Scripts/Main%20hero/ActiveAbilitySystem)
+Scripts for ability system you can see [here](https://github.com/AplyQ8/PixelQuasarCode/tree/main/Scripts/Main%20hero/Abilities)
 
 ![Ability](GameMoments/fight.gif)
 
