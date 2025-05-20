@@ -92,7 +92,16 @@ This project is still under development. Upcoming features include:
 - More quests and biomes
 
 
-## 🧑‍🎨 Author
+## 🧑‍🎨 Authors
 
-Created by [**AplyQ8**](https://github.com/AplyQ8)    
-Animations, code, and design are all original work.
+### [**AplyQ8**](https://github.com/AplyQ8)
+- 🎨 Animations, Arts  
+- 🧠 Code, Debug  
+- 🎮 Game Design
+
+### [**Lanzy**](https://github.com/lanzy4)
+- 🧠 Code, Debug  
+- 🔊 Audio Design, Music  
+- 🗺️ Level Design  
+- 🎮 Game Design
+
