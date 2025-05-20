@@ -106,4 +106,7 @@ This project is still under development. Upcoming features include:
 - 🗺️ Level Design  
 - 🎮 Game Design
 
+### [**mirpapur**](https://github.com/mrpepperbest)
+- 🎨 Animations, Arts
+- 📖 Story Design, Storytelling
 
