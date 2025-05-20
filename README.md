@@ -44,7 +44,7 @@ All enemy sprites and animations are drawn by hand. Below are samples of animati
 
 ![Marauder Walk](Animations/Marauder/Marauder_Move..gif)
 
-### ⚔️ Big Marauder All animations Animation
+### ⚔️ Big Marauder All Animations
 
 ![Marauder Attack](Animations/BigMarauder/GiantMarauder_DEMO.gif)
 
