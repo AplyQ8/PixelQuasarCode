@@ -42,12 +42,25 @@ All enemy sprites and animations are drawn by hand. Below are samples of animati
 
 ### 🧟‍♂️ Marauder Walk Animation
 
-![Marauder Walk](media/marauder_walk.gif)
+![Marauder Walk](Animations/Marauder/Marauder_Move..gif)
 
-### ⚔️ Marauder Attack Animation
+### ⚔️ Big Marauder All animations Animation
 
-![Marauder Attack](media/marauder_attack.gif)
+![Marauder Attack](Animations/BigMarauder/GiantMarauder_DEMO.gif)
 
+☠️ Skeleton — Walk & Attack
+
+![Aracher](Animations/Skeletons/SkeletonArcher_Death_Right.gif)
+
+![Bomber](Animations/Skeletons/Bomber_Demonsttrative.gif)
+
+![Summon](Animations/Skeletons/SkeletonCreature_right+awake.gif)
+
+👑 Boss — Move & Attack
+
+![Boss Run](Animations/DeathGod/Death%20God_Run.gif)
+
+![Boss Attack](Animations/DeathGod/Death%20God_Front_Sweeping_Poke.gif)
 
 ## 🚧 In Development
 
@@ -56,4 +69,8 @@ This project is still under development. Upcoming features include:
 - Boss fights
 - More quests and biomes
 
-## 📁 Project Structure (Example)
+
+## 🧑‍🎨 Author
+
+Created by [AplyQ8]   
+Animations, code, and design are all original work.
