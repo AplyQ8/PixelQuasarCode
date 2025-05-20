@@ -97,6 +97,7 @@ This project is still under development. Upcoming features include:
 ### [**AplyQ8**](https://github.com/AplyQ8)
 - 🎨 Animations, Arts  
 - 🧠 Code, Debug  
+- 📖 Story Design, Storytelling  
 - 🎮 Game Design
 
 ### [**Lanzy**](https://github.com/lanzy4)
@@ -104,4 +105,5 @@ This project is still under development. Upcoming features include:
 - 🔊 Audio Design, Music  
 - 🗺️ Level Design  
 - 🎮 Game Design
+
 
